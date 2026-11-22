@@ -1,0 +1,201 @@
+{
+  "image": {
+    "filename": "uploaded_image.png",
+    "width": 960,
+    "height": 1280
+  },
+  "metrics": {
+    "1_layout_confidence": 0.9098,
+    "2_text_detection_confidence": 0.8003,
+    "3_text_recognition_confidence": 0.8529,
+    "5_summary_model_confidence": 0.8007,
+    "5_summary_grounding_score": 0.9909,
+    "total_detected_lines": 33
+  },
+  "doc_type": "long_document",
+  "summary_mode": "detailed",
+  "speech_summary": "Số học vời công tác báo tồn, phút huỵ giá trị đi gần văn hoá, di Gian thiền nhiên NDJ Mõi quan. Số học nghiện cầu phú dựng tội Dực tranh hiện thực lích sự xã đình giá thị ích vu, văn hoá, khuận học cộng cưu cưung, toi dực trung tiền thúc lích sốt xác của khu việt việt hà nh. Bào tồn và phát huy giá trị các di sắn văn hoá, di sản thiên nhiền là hoặt động lưu giữ, bảo vệ và lan toá các giá trị những di sắn của thời trườc đế lại, nhắc nhò con người nhõ về cội nguồn, hình thành ỵ thức trách nhiệm või tổ tiền vời cộng đồng xã hội đường đại và vấc thế hệ mai sau, Hoạt động này có Ý nghĩa to lơn trong việc bảo đẩm sự phát triền bền vừng của mõi guốc gia, dân tộc, góp phần đem lại những hiệu quả thiết thực cho sự phát triền kinh tế, xã hội.",
+  "full_text": "1.số học vời công tác báo tồn và phút huỵ giá trị đi gần văn hoá, di gian thiền nhiên n DJ Mõi quan hệ giờn số học vất cong cong cổ trí giấp chí điệm viện chỉ đường của thị thuỷ tiến thuỷ thuỷ văn hoá. Số học nghiện cầu phú dựng tội Dực tranh hiện thực lích sự xã đình giá thị ích vu, văn hoá, khuận học cộng cưu cưung, toi dực trung tiền thúc lích sốt xác của khu việt việt hà nh. Ket gua nghiên cuu cua su moc khang dinh gia gia tri g the khach vấn hoi, Tổ cổ củ đế bào tôn gia giữ và phát huỷ giá trị cuộng cuất giá thuỷ. Lận con số 65151 (ngày 23 - 11-1945) của Chú tích nưấc Việt Nam chủ Cộng hoà việc bào lật tent s tren phu di cổ nược quỵ đình, Cẩm phả huỳ nhành chuy báo ton co tich tren phường cung dư trị, phú, quốc cung thuỷ, phú dược bào tổn Cẩm phả nhưng not thủy khu tu xuâ, vinh cách giấy giấy mờ, sách võ tỉnh cách tôn giấp hay không ngày cốich chổ lịch sử mã chưa được báo tôn b) Vai trò của công tác bảo tồn và phát huỷ giá trị di sản văn hoá và di sản thiền nhiền. Bào tồn và phát huy giá trị các di sắn văn hoá, di sản thiên nhiền là hoặt động lưu giữ, bảo vệ và lan toá các giá trị những di sắn của thời trườc đế lại, nhắc nhò con người nhõ về cội nguồn, hình thành ỵ thức trách nhiệm või tổ tiền vời cộng đồng xã hội đường đại và vấc thế hệ mai sau, Hoạt động này có Ý nghĩa to lơn trong việc bảo đẩm sự phát triền bền vừng của mõi guốc gia, dân tộc, góp phần đem lại những hiệu quả thiết thực cho sự phát triền kinh tế, xã hội. Công tác bào tồn, tu bổ, phúc dựng di sản là nhiệm vú thường xuyền và quan trọng hàng đầu, bảo đàm tính nguyễn trạng và giá trị nổi bật của disán. Em có biết. Hình 23 Chúa Cầu (Hội An) 2",
+  "layout": [
+    {
+      "id": 0,
+      "type": "text",
+      "bbox": [
+        128,
+        36,
+        893,
+        114
+      ],
+      "score": 0.7685109376907349,
+      "order": 0,
+      "text": "1.số học vời công tác báo tồn và phút huỵ giá trị đi gần văn hoá, di gian thiền nhiên n DJ Mõi quan hệ giờn số học vất cong cong cổ trí giấp chí điệm viện chỉ đường của thị thuỷ tiến thuỷ thuỷ văn hoá"
+    },
+    {
+      "id": 1,
+      "type": "text",
+      "bbox": [
+        125,
+        112,
+        895,
+        174
+      ],
+      "score": 0.964725136756897,
+      "order": 1,
+      "text": "Số học nghiện cầu phú dựng tội Dực tranh hiện thực lích sự xã đình giá thị ích vu, văn hoá, khuận học cộng cưu cưung, toi dực trung tiền thúc lích sốt xác của khu việt việt hà nh"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "bbox": [
+        122,
+        170,
+        898,
+        231
+      ],
+      "score": 0.9659838080406189,
+      "order": 2,
+      "text": "Ket gua nghiên cuu cua su moc khang dinh gia gia tri g the khach vấn hoi, Tổ cổ củ đế bào tôn gia giữ và phát huỷ giá trị cuộng cuất giá thuỷ"
+    },
+    {
+      "id": 3,
+      "type": "figure_title",
+      "bbox": [
+        175,
+        500,
+        888,
+        555
+      ],
+      "score": 0.7197193503379822,
+      "order": 3,
+      "text": "Quan sát các hình 2.2, 23, nêu mõi quận hệ giữa Sử học vời công tác bào tồn và phảt huy giá trị đi sản văn hoá,"
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "bbox": [
+        79,
+        1078,
+        910,
+        1226
+      ],
+      "score": 0.9787436127662659,
+      "order": 4,
+      "text": "Lận con số 65151 (ngày 23 - 11-1945) của Chú tích nưấc Việt Nam chủ Cộng hoà việc bào lật tent s tren phu di cổ nược quỵ đình, Cẩm phả huỳ nhành chuy báo ton co tich tren phường cung dư trị, phú, quốc cung thuỷ, phú dược bào tổn Cẩm phả nhưng not thủy khu tu xuâ, vinh cách giấy giấy mờ, sách võ tỉnh cách tôn giấp hay không ngày cốich chổ lịch sử mã chưa được báo tôn"
+    },
+    {
+      "id": 5,
+      "type": "figure_title",
+      "bbox": [
+        122,
+        450,
+        484,
+        475
+      ],
+      "score": 0.9381157159805298,
+      "order": 5,
+      "text": "Hình 22 Một đoan phố cố Hà Nội đầu thế k1XX"
+    },
+    {
+      "id": 6,
+      "type": "paragraph_title",
+      "bbox": [
+        101,
+        602,
+        633,
+        662
+      ],
+      "score": 0.9622980356216431,
+      "order": 6,
+      "text": "b) Vai trò của công tác bảo tôn và phát huỷ giá trị di sản văn hoá và di sản thiền nhiền"
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "bbox": [
+        89,
+        670,
+        636,
+        921
+      ],
+      "score": 0.9885758757591248,
+      "order": 7,
+      "text": "Bào tồn và phát huy giá trị các di sắn văn hoá, di sản thiên nhiền là hoặt động lưu giữ, bảo vệ và lan toá các giá trị những di sắn của thời trườc đế lại, nhắc nhò con người nhõ về cội nguồn, hình thành ỵ thỨc trách nhiệm või tổ tiền vời cộng đồng xã hội đường đại và vấc thế hệ mai sau, Hoạt động này có Ý nghĩa to lơn trong việc bảo đẩm sự phát triền bền vừng của mõi guốc gia, dân tộc, góp phần đem lại những hiệu quả thiết thực cho sự phát triền kinh tế, xã hội"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "bbox": [
+        81,
+        923,
+        636,
+        1023
+      ],
+      "score": 0.9817178249359131,
+      "order": 8,
+      "text": "Công tác bào tồn, tu bổ, phúc dựng di sản là nhiệm vú thường xuyền và quan trọng hàng đầu, bảo đàm tính nguyễn trạng và giá trị nổi bật của disán"
+    },
+    {
+      "id": 9,
+      "type": "paragraph_title",
+      "bbox": [
+        141,
+        1056,
+        259,
+        1086
+      ],
+      "score": 0.9437448382377625,
+      "order": 9,
+      "text": "Em có biết"
+    },
+    {
+      "id": 10,
+      "type": "vision_footnote",
+      "bbox": [
+        590,
+        458,
+        796,
+        480
+      ],
+      "score": 0.7765194773674011,
+      "order": 10,
+      "text": "Hình 23 Chúa Cầu (Hội An)"
+    },
+    {
+      "id": 11,
+      "type": "figure_title",
+      "bbox": [
+        642,
+        987,
+        916,
+        1036
+      ],
+      "score": 0.9540941119194031,
+      "order": 11,
+      "text": "Hình 2.4.Một góc Thánh địa Mỹ Sơn (Quảng Nam)"
+    },
+    {
+      "id": 12,
+      "type": "number",
+      "bbox": [
+        882,
+        1232,
+        906,
+        1255
+      ],
+      "score": 0.8844020962715149,
+      "order": 12,
+      "text": ""
+    },
+    {
+      "id": "orphan_0",
+      "type": "text",
+      "bbox": [
+        117,
+        496,
+        154,
+        541
+      ],
+      "text": "2"
+    }
+  ]
+}
